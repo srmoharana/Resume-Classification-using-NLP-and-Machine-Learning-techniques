@@ -21,7 +21,7 @@
 
 ### Many times you might have seen a cloud filled with lots of words in different sizes, which represent the frequency or the importance of each word. This is called Tag Cloud or WordCloud. In simple terms cloud word or word cloud is a data visualization technique used for representing text data in which the size of each word indicates its frequency or importance. They are widely used for analyzing data from social network websites.
 
-
+![alt text](https://github.com/srmoharana/Resume-Classification-using-NLP-and-Machine-Learning-techniques/blob/master/Resume%20Classification/cloud%20word.jpg)
 
 ### For generating word cloud in Python, modules needed are – matplotlib, pandas and wordcloud. To install these packages, run the following commands:
 
